@@ -1,0 +1,9 @@
+{
+    "port": 3001,
+    "discord": { 
+        "client_id": "991951146501554237",
+        "client_secret": "XdZylNoHWLPr5pGBMSKYcsSyOyd9Du-t",
+        "redirect_uri": "http://localhost:3001/login/callback",
+        "scopes": ["identify","guilds","email"]
+    }
+}
